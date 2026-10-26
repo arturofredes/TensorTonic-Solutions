@@ -41,6 +41,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Implement Positional Encoding (sin/cos) | Generate sinusoidal Transformer positional encodings across sequence positions and embedding dimensions, with the formula and tests in the browser. | https://www.tensortonic.com/problems/positional-encoding |
 | Sample Variance & Standard Deviation | Compute sample variance and standard deviation with Bessel's correction from a numeric collection. | https://www.tensortonic.com/problems/sample-var-std |
 | Implement Sigmoid in NumPy | Implement a vectorized sigmoid activation in NumPy for scalars, lists, vectors, and matrices, including large positive and negative inputs. | https://www.tensortonic.com/problems/sigmoid-numpy |
+| Simple Moving Average | Compute the simple moving average over complete fixed-size windows of a numeric time series. | https://www.tensortonic.com/problems/simple-moving-average |
 | Compute 3D Vector Norm | Compute the Euclidean norm of a 3D vector from the square root of summed squared coordinates. | https://www.tensortonic.com/problems/vector-norm-3d |
 | Implement z-Score Standardization | Standardize NumPy features to zero mean and unit variance with explicit handling for constant columns. | https://www.tensortonic.com/problems/zscore-standardization |
 | Masked Language Modeling | Implement BERT masked language modeling with the 80-10-10 replacement strategy, training labels, and vocabulary logits. | https://www.tensortonic.com/research/bert/bert-masked-lm |
